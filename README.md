@@ -1,7 +1,7 @@
 # Flutter_Travel_Blog_UI
 Ui design of a Travel Blog app. Home screen and details screen.
 
-<a href="">Download and tryout the app</a>
+<a href="https://github.com/FahimKamal/Flutter_Travel_Blog_UI/raw/main/travel_blog_ui/Travel_blogUI_app.apk">Download and tryout the app</a>
 
 <div align="center">
 <img src="travel_blog_ui/homepage.png" style="width: 40%"></img>
